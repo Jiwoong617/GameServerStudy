@@ -13,3 +13,6 @@ C:\Users\joe0617\Desktop\GameServerStudy\Server\DummyClient\obj\Debug\net6.0\ref
 C:\Users\joe0617\Desktop\GameServerStudy\Server\DummyClient\obj\Debug\net6.0\DummyClient.pdb
 C:\Users\joe0617\Desktop\GameServerStudy\Server\DummyClient\obj\Debug\net6.0\DummyClient.genruntimeconfig.cache
 C:\Users\joe0617\Desktop\GameServerStudy\Server\DummyClient\obj\Debug\net6.0\ref\DummyClient.dll
+C:\Users\joe0617\Desktop\GameServerStudy\Server\DummyClient\bin\Debug\net6.0\ServerCore.dll
+C:\Users\joe0617\Desktop\GameServerStudy\Server\DummyClient\bin\Debug\net6.0\ServerCore.pdb
+C:\Users\joe0617\Desktop\GameServerStudy\Server\DummyClient\obj\Debug\net6.0\DummyClient.csproj.CopyComplete
