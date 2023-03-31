@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
 
 namespace ServerCore
 {
@@ -31,6 +30,7 @@ namespace ServerCore
 
     public class SendBuffer
     {
+        // [][][][][][][][][u][]
         byte[] _buffer;
         int _usedSize = 0;
 
