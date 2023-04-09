@@ -1,0 +1,15 @@
+C:\Users\joe0617\Desktop\GameServerStudy\Server\PacketGenerator\obj\Debug\PacketGenerator.csproj.AssemblyReference.cache
+C:\Users\joe0617\Desktop\GameServerStudy\Server\PacketGenerator\obj\Debug\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joe0617\Desktop\GameServerStudy\Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfoInputs.cache
+C:\Users\joe0617\Desktop\GameServerStudy\Server\PacketGenerator\obj\Debug\PacketGenerator.AssemblyInfo.cs
+C:\Users\joe0617\Desktop\GameServerStudy\Server\PacketGenerator\obj\Debug\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\bin\Debug\PacketGenerator.exe
+C:\bin\Debug\PacketGenerator.deps.json
+C:\bin\Debug\PacketGenerator.runtimeconfig.json
+C:\bin\Debug\PacketGenerator.dll
+C:\bin\Debug\PacketGenerator.pdb
+C:\Users\joe0617\Desktop\GameServerStudy\Server\PacketGenerator\obj\Debug\PacketGenerator.dll
+C:\Users\joe0617\Desktop\GameServerStudy\Server\PacketGenerator\obj\Debug\refint\PacketGenerator.dll
+C:\Users\joe0617\Desktop\GameServerStudy\Server\PacketGenerator\obj\Debug\PacketGenerator.pdb
+C:\Users\joe0617\Desktop\GameServerStudy\Server\PacketGenerator\obj\Debug\PacketGenerator.genruntimeconfig.cache
+C:\Users\joe0617\Desktop\GameServerStudy\Server\PacketGenerator\obj\Debug\ref\PacketGenerator.dll
